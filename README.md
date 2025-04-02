@@ -17,7 +17,16 @@ A powerful web application that provides AI-powered explanations of code from Gi
 - **Responsive Design**: Works well on both desktop and mobile devices
 - **Code Preview**: View the original code alongside the explanation
 
-## 🛠️ Technology Stack
+## 🎯 Use Cases
+
+- **Learning New Codebases**: Helps developers quickly understand unfamiliar code
+- **Code Review**: Can assist in understanding the purpose and functionality of code being reviewed
+- **Documentation**: Can be used to automatically generate high-level documentation for code
+- **Educational Tool**: Useful for students learning to code, allowing them to understand existing code examples
+- **Reverse Engineering**: Can assist in understanding the functionality of closed-source code (though ethical considerations apply)
+- **Code Exploration**: Quickly understand the function of snippets found online
+
+## ��️ Technology Stack
 
 - **Frontend**: Streamlit
 - **AI Model**: Google Gemini AI
