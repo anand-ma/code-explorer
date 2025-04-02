@@ -6,7 +6,7 @@ A powerful web application that provides AI-powered explanations of code from Gi
 
 ## 📸 Screenshot
 
-<img src="assets/code-explainer.png" alt="GitHub Code Explainer Interface" width="800">
+<img src="https://raw.githubusercontent.com/anand-ma/code-explorer/main/assets/code-explorer.png" alt="GitHub Code Explainer Interface" width="800">
 
 ## 🌟 Features
 
