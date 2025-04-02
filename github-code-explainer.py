@@ -261,7 +261,7 @@ with col2:
     # Add some helpful information in the sidebar
     st.markdown("### 🎯 How to Use")
     st.markdown("""
-    1. Enter a GitHub URL (e.g., https://github.com/username/repo/blob/main/file.py)
+    1. Enter a GitHub URL (e.g., https://github.com/anand-ma/code-explorer/blob/main/github-code-explainer.py)
     2. Click 'Explain Code'
     3. Wait for the AI to analyze and explain the code
     """)
